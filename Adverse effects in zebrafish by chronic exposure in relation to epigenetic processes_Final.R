@@ -1,4 +1,4 @@
-##########Script Adverse effects in zebrafish by chronic PFAs exposure in relation to epigenetic processes
+##########Script for "Environmentally relevant exposure to PFAS during zebrafish development impacts behavior, fitness, and the transcriptome" ##########
 
 ####Call the librairies####
 library(tibble)
